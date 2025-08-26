@@ -13,3 +13,5 @@ const HomeStackNavigator=()=>{
         <Stack.Screen name='EditExpenseScreen' component={EditExpenseScreen} />
     </Stack.Navigator>
 }
+
+export default HomeStackNavigator;
